@@ -1,4 +1,4 @@
-[![stats](https://github-readme-stats.vercel.app/api?username=rodrigoieh&theme=slateorange&show_icons=true&custom_title=Statistics)](https://github.com/rodrigoieh)   
+<!--[![stats](https://github-readme-stats.vercel.app/api?username=rodrigoieh&theme=slateorange&show_icons=true&custom_title=Statistics)](https://github.com/rodrigoieh)-->
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=rodrigoieh&theme=slateorange&custom_title=Wakatime)](https://github.com/rodrigoieh)   
 [![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoieh&theme=slateorange&layout=compact&langs_count=10&custom_title=Languages)](https://github.com/rodrigoieh)   
 
