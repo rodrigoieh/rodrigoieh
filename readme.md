@@ -4,7 +4,6 @@
 
 [![https://www.linkedin.com/in/rodrigoieh](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=orange&color=orange)](https://www.linkedin.com/in/rodrigoieh)   
 
-
 <!--
 counter: orange/orange theme (customized on pipedream nodejs step/event box)
 ![counter](https://enqvr2e852qshqp.m.pipedream.net)
