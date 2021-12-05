@@ -1,4 +1,4 @@
-![wakatime](https://wakatime.com/share/@rodrigoieh/db946ffa-8504-404f-9189-c16d4b66c2e3.svg)
+<!-- ![wakatime](https://wakatime.com/share/@rodrigoieh/db946ffa-8504-404f-9189-c16d4b66c2e3.svg) -->
 
 <!--[![stats](https://github-readme-stats.vercel.app/api?username=rodrigoieh&theme=slateorange&show_icons=true&custom_title=Statistics)](https://github.com/rodrigoieh)   
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=rodrigoieh&theme=slateorange&custom_title=Wakatime)](https://github.com/rodrigoieh)   
