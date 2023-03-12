@@ -1,6 +1,8 @@
+<!--
 [![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoieh&theme=slateorange&layout=compact&langs_count=10&custom_title=Public%20Repositories)](https://github.com/rodrigoieh)
 
 [![https://www.linkedin.com/in/rodrigoieh](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=orange&color=orange)](https://www.linkedin.com/in/rodrigoieh)   
+-->
 
 <!-- ![wakatime](https://wakatime.com/share/@rodrigoieh/db946ffa-8504-404f-9189-c16d4b66c2e3.svg) -->
 
